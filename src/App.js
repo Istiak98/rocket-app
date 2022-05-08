@@ -1,10 +1,10 @@
 import "./App.css";
-import RocketCard from "./component/RocketCard";
+import Rocket from "./Page/Rocket";
 
 function App() {
   return (
     <div className="App">
-      <RocketCard />
+      <Rocket />
     </div>
   );
 }
