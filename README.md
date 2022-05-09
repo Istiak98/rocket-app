@@ -16,9 +16,13 @@ $ cd ../path/to/the/file
 $ npm install
 $ npm start
 
-#### Technologies
-***
-A list of technologies used within the project:
-* [React-redux-toolkit](https://redux-toolkit.js.org/).
-* [Bootstrap 5](https://getbootstrap.com/).
+```
 
+#### Technologies
+
+---
+
+A list of technologies used within the project:
+
+- [React-redux-toolkit](https://redux-toolkit.js.org/).
+- [Bootstrap 5](https://getbootstrap.com/).
