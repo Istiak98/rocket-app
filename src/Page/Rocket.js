@@ -49,6 +49,7 @@ const Rocket = () => {
     );
     setTerm(matchFlight);
   };
+
   const sortByUpcoming = (upcoming) => {
     const matchFlight = missions.filter(
       (mission) => mission.upcoming === upcoming
